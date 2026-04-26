@@ -1,0 +1,15 @@
+.DS_Store
+
+*.pth
+*.log
+*.txt
+*.ipynb
+__pycache__/
+.vscode/
+checkpoints/
+logs/
+tmp/
+
+# Visualization Code
+tsne*.mat
+outputs/

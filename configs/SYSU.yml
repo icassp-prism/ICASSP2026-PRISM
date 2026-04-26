@@ -1,0 +1,30 @@
+prefix: SYSU
+
+# dataset
+sample_method: identity_random
+image_size: (288, 144)
+p_size: 10
+k_size: 8
+
+dataset: sysu
+
+# model
+mutual_learning: true
+modality_attention: 2
+
+# optimizer
+lr: 0.00035
+optimizer: adam
+num_epoch: 160
+lr_step: [80, 120]
+
+# augmentation
+random_flip: true
+random_crop: true
+random_erase: true
+color_jitter: false
+padding: 10
+
+# log
+start_eval: 115
+eval_interval: 5
