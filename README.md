@@ -95,11 +95,12 @@ Evaluation logs are written under `logs/<dataset>/...`. When supported by the da
 If this project is useful for your research, please cite our paper:
 
 ```bibtex
-@inproceedings{Hu2026PRISM,
-    title={PRISM: Propagating-based Refined Semantic Features with Bipartite Matching for Visible-Infrared Group Re-Identification},
-    author={Hu, Ping and Zhu, Tongqing and Han, Lianjin and Wu, Junhang and Zhao, Kai and Zhu, Zheng and Zhao, Jian},
-    booktitle={ICASSP},
-    year={2026}
+@INPROCEEDINGS{Hu_2026_ICASSP,
+  author={Hu, Ping and Zhu, Tongqing and Han, Lianjin and Wu, Junhang and Zhao, Kai and Zhu, Zheng and Zhao, Jian},
+  booktitle={ICASSP 2026 - 2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
+  title={PRISM: Propagating-Based Refined Semantic Features with Bipartite Matching for Visible-Infrared Group Re-identification}, 
+  year={2026},
+  pages={9727-9731}
 }
 ```
 
