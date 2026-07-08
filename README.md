@@ -95,7 +95,7 @@ Evaluation logs are written under `logs/<dataset>/...`. When supported by the da
 If this project is useful for your research, please cite our paper:
 
 ```bibtex
-@INPROCEEDINGS{Hu_2026_ICASSP,
+@INPROCEEDINGS{Hu2026ICASSP,
   author={Hu, Ping and Zhu, Tongqing and Han, Lianjin and Wu, Junhang and Zhao, Kai and Zhu, Zheng and Zhao, Jian},
   booktitle={ICASSP 2026 - 2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
   title={PRISM: Propagating-Based Refined Semantic Features with Bipartite Matching for Visible-Infrared Group Re-identification}, 
@@ -109,7 +109,7 @@ If this project is useful for your research, please cite our paper:
 This project adopts the code structure of [SAAI](https://github.com/xiaoye-hhh/SAAI). We thank the authors for releasing the implementation of `Visible-Infrared Person Re-Identification via Semantic Alignment and Affinity Inference`.
 
 ```bibtex
-@InProceedings{Fang_2023_ICCV,
+@InProceedings{Fang2023ICCV,
     author    = {Fang, Xingye and Yang, Yang and Fu, Ying},
     title     = {Visible-Infrared Person Re-Identification via Semantic Alignment and Affinity Inference},
     booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
@@ -122,7 +122,7 @@ This project adopts the code structure of [SAAI](https://github.com/xiaoye-hhh/S
 For feature visualization, this project uses the visualization code from [DEEN / LLCM](https://github.com/ZYK100/LLCM). We thank the authors for releasing the implementation of `Diverse Embedding Expansion Network and Low-Light Cross-Modality Benchmark for Visible-Infrared Person Re-Identification`.
 
 ```bibtex
-@InProceedings{Zhang_2023_CVPR,
+@InProceedings{Zhang2023CVPR,
     author    = {Zhang, Yukang and Wang, Hanzi},
     title     = {Diverse Embedding Expansion Network and Low-Light Cross-Modality Benchmark for Visible-Infrared Person Re-Identification},
     booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
